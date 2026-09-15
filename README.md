@@ -68,6 +68,10 @@ Used for lightweight data storage.
 ![HarvestHub Mobile View](screenshots/mobile-view.png)
 
 ---
+## 🌐 Live Demo
+
+👉 [View HarvestHub Live](https://harvesthub-puma.onrender.com)
+
 
 ## 📂 Project Structure
 
@@ -95,6 +99,4 @@ HarvestHub/
     ├── cart.png
     └── mobile-view.png
 
-## 🌐 Live Demo
 
-👉 [View HarvestHub Live](https://harvesthub-puma.onrender.com)
