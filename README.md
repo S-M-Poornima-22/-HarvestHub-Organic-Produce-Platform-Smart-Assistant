@@ -1,50 +1,96 @@
+# 🥬 HarvestHub — Organic Produce Platform & Smart Assistant
 
+> **Making healthy food shopping more accessible, and user-friendly through technology.**
 
-<div align="center">
+HarvestHub is a responsive organic produce shopping platform designed to make online shopping for fresh and healthy food simple and convenient.
 
-# 🌿 HarvestHub — Organic Produce & Contextual AI Assistant
-
-**A responsive e-commerce web platform engineered for fresh farm produce tracking, real-time cart state management, and contextual AI-driven customer assistance.**
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-[Key Features](#-key-features) • [System Architecture](#-system-architecture) • [API Reference](#-api-endpoints) • [Quickstart](#-installation--local-setup)
-
-</div>
+Users can explore different food categories, search for products, manage their shopping cart, and receive simple health-based product recommendations through an easy-to-use interface.
 
 ---
 
-## 📌 Problem & Motivation
+## 🌱 The Idea Behind HarvestHub
 
-Access to fresh, organic farm produce often suffers from supply transparency issues and friction during customer checkout. Consumers struggle to verify harvest cycles, origin farms, and nutritional freshness before purchase. 
+The idea was to create a simple online space where people can easily explore fresh food products.
 
-**HarvestHub** bridges this gap by combining:
-1. An accessible, responsive client storefront with dynamic local cart persistence.
-2. A lightweight **Flask microservice backend** managing product inventories and farm origin metadata.
-3. An integrated **Contextual AI Chatbot** answering instant queries on product availability, harvest schedules, and cooking profiles.
+Along with regular shopping features, HarvestHub includes basic health-based recommendations to make product discovery more useful and personalized.
 
----
-
-## ✨ Key Features
-
-* **Dynamic Cart State Engine:** Zero-latency client-side cart updates with persistent storage synchronization.
-* **Contextual AI Produce Assistant:** Lightweight backend conversational service resolving queries about shelf life, origin farms, and order guidance.
-* **Traceable Produce Catalog:** Detailed data cards showcasing harvest timestamps, certification tags, and batch quantities.
-* **Responsive Viewport Design:** Built mobile-first with CSS Grid and semantic HTML5 to support fluid shopping across devices.
-* **Lightweight REST Endpoints:** Clean JSON responses for product queries, search filtering, and support dialog.
+> **Healthy choices, made simpler through technology.**
 
 ---
 
-## 🏗️ System Architecture
+## ✨ What You Can Do
+
+- Browse products across different categories
+- Search for products easily
+- Add products to the shopping cart
+- Increase or decrease product quantities
+- Get simple health-based product recommendations
+- Explore the platform comfortably on desktop and mobile
+- Interact with the smart assistant for common queries
+
+---
+
+## 🧰 Built With
+
+**Python & Flask**  
+Used to handle the backend and web application logic.
+
+**HTML**  
+Used to structure the web pages and content.
+
+**CSS**  
+Used for styling and creating a responsive layout.
+
+**JavaScript**  
+Used for interactive features such as search, cart management, and recommendations.
+
+**SQLite**  
+Used for lightweight data storage.
+
+---
+
+## 📸 Project Showcase
+
+### Homepage
+
+![HarvestHub Homepage](screenshots/homepage.png)
+
+### Products
+
+![HarvestHub Products](screenshots/products.png)
+
+### Shopping Cart
+
+![HarvestHub Cart](screenshots/cart.png)
+
+### Mobile View
+
+![HarvestHub Mobile View](screenshots/mobile-view.png)
+
+---
+
+## 📂 Project Structure
 
 ```text
-[ Client Browser (ES6+ / Fetch API / CSS3) ]
-                   │
-                   ▼  HTTPS / JSON
-[ Flask Microservice Backend (Python) ]
-     ├── /api/v1/products   ──> [ Inventory & Origin Service ]
-     ├── /api/v1/cart       ──> [ Session / State Handler ]
-     └── /api/v1/assistant  ──> [ Context Query Engine / NLP ]
+HarvestHub/
+│
+├── app.py
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│
+└── screenshots/
+    ├── homepage.png
+    ├── products.png
+    ├── cart.png
+    └── mobile-view.png
