@@ -95,9 +95,6 @@ HarvestHub/
     ├── cart.png
     └── mobile-view.png
 
-## 🚀 Running the Project
+## 🌐 Live Demo
 
-Clone the repository:
-
-```bash
-git clone <your-repository-link>
+👉 [View HarvestHub Live](https://harvesthub-puma.onrender.com)
