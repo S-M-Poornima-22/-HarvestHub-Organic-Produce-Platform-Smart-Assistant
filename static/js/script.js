@@ -282,8 +282,8 @@ Diabetes:[
 ],
 BP:[
  {name:"Banana", img:"/static/images/fruits/banana.png"},
- {name:"Beetroot", img:"vegetable/beetroot.png"},
- {name:"Papaya", img:"fruits/papaya.png"}
+ {name:"Beetroot", img:"/static/images/vegetable/beetroot.png"},
+ {name:"Papaya", img:"/static/images/fruits/papaya.png"}
 ],
 WeightLoss:[
  {name:"Carrot", img:"/static/images/vegetable/carrot.png"},
