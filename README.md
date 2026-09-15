@@ -94,3 +94,10 @@ HarvestHub/
     ├── products.png
     ├── cart.png
     └── mobile-view.png
+
+## 🚀 Running the Project
+
+Clone the repository:
+
+```bash
+git clone <your-repository-link>
