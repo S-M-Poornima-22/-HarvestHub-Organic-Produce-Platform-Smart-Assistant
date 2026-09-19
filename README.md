@@ -48,7 +48,7 @@
 
 ### AI Bot
 
-![AI Bot](screenshots/AI_bot.png)
+![AI Bot](screenshots/AI_bot..png)
 
 ### Mobile View
 
