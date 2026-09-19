@@ -1,4 +1,4 @@
-# 🥬 HarvestHub — Organic Produce Platform & Smart Assistant
+# 🥬 HarvestHub — Organic Platform & Smart Assistant
 
 > **Making healthy food shopping more accessible, and user-friendly through technology.**
 
@@ -46,6 +46,10 @@
 
 ![HarvestHub Cart](screenshots/cart.png)
 
+### AI Bot
+
+![AI Bot](screenshots/AI.png)
+
 ### Mobile View
 
 ![HarvestHub Mobile View](screenshots/mobile-view.png)
@@ -83,6 +87,14 @@ HarvestHub/
     └── mobile-view.png
 ```
 ---
+## 🔄 Workflow
+
+* **Browse:** Explore products by category.
+* **Search:** Find products quickly.
+* **Cart:** Add products and update quantities.
+* **Recommendations:** Get health-based product suggestions.
+* **Checkout:** Review selected products and complete the order.
+
 ## 📚 What I Learned
 
 Learned to build **Flask routes, form handling, and backend logic** for a web application. Improved my understanding of **responsive UI design and integrating frontend interactions with Flask**.
