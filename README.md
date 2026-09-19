@@ -59,6 +59,9 @@
 
 👉 [View HarvestHub Live](https://harvesthub-puma.onrender.com)
 
+> **ℹ️ Note:** Images may take a few moments to load during the first visit due to the free hosting environment.
+> Thanks for your patience.
+
 
 ## 📂 Project Structure
 
