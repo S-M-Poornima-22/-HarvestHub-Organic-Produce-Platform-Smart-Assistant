@@ -2,50 +2,33 @@
 
 > **Making healthy food shopping more accessible, and user-friendly through technology.**
 
-HarvestHub is a responsive organic produce shopping platform designed to make online shopping for fresh and healthy food simple and convenient.
+• HarvestHub is a responsive organic shopping platform designed to make online shopping for fresh and healthy food simple and convenient.
 
-Users can explore different food categories, search for products, manage their shopping cart, and receive simple health-based product recommendations through an easy-to-use interface.
+• Users can explore different food categories, search for products, manage their shopping cart, and receive simple health-based product recommendations through an easy-to-    use interface.
 
 ---
 
 ## 🌱 The Idea Behind HarvestHub
 
-The idea was to create a simple online space where people can easily explore fresh food products.
+• The idea was to create a simple online space where people can easily explore fresh food products.
 
-Along with regular shopping features, HarvestHub includes basic health-based recommendations to make product discovery more useful and personalized.
+• Along with regular shopping features, HarvestHub includes basic health-based recommendations to make product discovery more useful and personalized.
 
 > **Healthy choices, made simpler through technology.**
 
 ---
 
-## ✨ What You Can Do
-
-- Browse products across different categories
-- Search for products easily
-- Add products to the shopping cart
-- Increase or decrease product quantities
-- Get simple health-based product recommendations
-- Explore the platform comfortably on desktop and mobile
-- Interact with the smart assistant for common queries
-
----
-
 ## 🧰 Built With
 
-**Python & Flask**  
-Used to handle the backend and web application logic.
+• **Python & Flask** - Used to handle the backend and web application logic.
 
-**HTML**  
-Used to structure the web pages and content.
+• **HTML** - Used to structure the web pages and content.
 
-**CSS**  
-Used for styling and creating a responsive layout.
+• **CSS** - Used for styling and creating a responsive layout.
 
-**JavaScript**  
-Used for interactive features such as search, cart management, and recommendations.
+• **JavaScript** - Used for interactive features such as search, cart management, and recommendations.
 
-**SQLite**  
-Used for lightweight data storage.
+• **SQLite** - Used for lightweight data storage.
 
 ---
 
@@ -98,5 +81,10 @@ HarvestHub/
     ├── products.png
     ├── cart.png
     └── mobile-view.png
+```
+---
+## 📚 What I Learned
+
+Learned to build **Flask routes, form handling, and backend logic** for a web application. Improved my understanding of **responsive UI design and integrating frontend interactions with Flask**.
 
 
