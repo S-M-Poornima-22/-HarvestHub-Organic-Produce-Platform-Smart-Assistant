@@ -91,8 +91,9 @@ HarvestHub/
 
 * **Browse:** Explore products by category.
 * **Search:** Find products quickly.
-* **Cart:** Add products and update quantities.
-* **Recommendations:** Get health-based product suggestions.
+* **Cart:** Add products and manage quantities.
+* **AI Assistant:** Get quick answers about products and common queries.
+* **Recommendations:** Get simple health-based product suggestions.
 * **Checkout:** Review selected products and complete the order.
 
 ## 📚 What I Learned
