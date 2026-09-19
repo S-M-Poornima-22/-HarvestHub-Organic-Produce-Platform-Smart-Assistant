@@ -87,7 +87,7 @@ HarvestHub/
     └── mobile-view.png
 ```
 ---
-## 🔄 Workflow
+## 🔄 key-features
 
 * **Browse:** Explore products by category.
 * **Search:** Find products quickly.
